@@ -18,7 +18,6 @@ makeCacheMatrix <- function(x = matrix()) {
 }
 
 
-
 ## The cacheSolve function return inverse of a square invertible matrix. 
 ## However, it will use the cached value if the inverse has already been calculated.
 
